@@ -1,0 +1,23 @@
+For making this game I used many Youtube channels for issues regarding the SDL2 library functions
+Youtube Channels
+Writing 2D Games in C using SDL by Thomas Lively
+	https://youtu.be/yFLa3ln16w0
+
+SDL2 Made Easy tutorials by Coding Made Easy
+	https://youtu.be/DgpcRIK2uug
+
+C++ SDL2 Tutorials by John Hammond
+	https://youtu.be/iggmjJ_C_C4
+
+C++ SDL2 Tutorials by ArchieG
+	https://youtu.be/GQ6h3KnuRUA
+
+(Actually I have shared links of the first video of each tutorial)
+
+Also I used the Wikipedia Page of the SDL2 Library
+	https://wiki.libsdl.org/
+
+I used many google searches for creating the window
+
+I used GIMP(GNU Image Manipulation Program) for image editing to convert other format files into bmp or else
+Also I used converters on google for mp3 to wav format conversion

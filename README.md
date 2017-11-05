@@ -20,16 +20,16 @@ This game is written in c language with using various library function of SDL2(S
 
 There are 4 levels in this game i.e.
 1. Challenge
-	In this part of game you will be playing with 1 ball 1 small light paddle & 1 layered bricks structure
+	In this part of game you will be playing with 1 ball, 1 small light paddle & 1 layered bricks structure
 
 2. Brick Challenge
-	In this part of game you will be playing with 1 ball 1 small light paddle & 2 layered bricks structure(where you have to hit some of the bricks twice)
+	In this part of game you will be playing with 1 ball, 1 small light paddle & 2 layered bricks structure(where you have to hit some of the bricks twice)
 
 3. Ball Challenge
-	In this part of game you will be playing with 2 ball 1 small light paddle & 1 layered bricks structure (The second Ball will appear when you lose the first ball once)
+	In this part of game you will be playing with 2 balls, 1 small light paddle & 1 layered bricks structure (The second Ball will appear when you lose the first ball once)
 
 4. Paddle Challenge
-	In this part of game you will be playing with 1 ball 1 big heavy paddle & 1 layered bricks structure
+	In this part of game you will be playing with 1 ball, 1 big heavy paddle & 1 layered bricks structure
 
 
 How to Play

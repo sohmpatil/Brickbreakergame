@@ -1,5 +1,4 @@
-MIS: 111608050
-Name: Soham Prabhakar Patil
+Author: Soham Prabhakar Patil
 Project Title: Brick Breaker Game
 
 Essential Libraries to be installed on your pc for running the game

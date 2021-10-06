@@ -3,16 +3,21 @@ Name: Soham Prabhakar Patil
 Project Title: Brick Breaker Game
 
 Essential Libraries to be installed on your pc for running the game
+
 1.libsdl2-2.0-0
+
 2.libsdl2-dev
 
 3.libsdl2-image-2.0-0 
+
 4.libsdl2-image-dev
 
 5.libsdl2-mixer-2.0-0
+
 6.libsdl2-mixer-dev
 
 7.libsdl2-ttf-2.0-0 
+
 8.libsdl2-ttf-dev
 
 This game is very much similar to the usual version of this game with some additional challenges
